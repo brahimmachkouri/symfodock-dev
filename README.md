@@ -1,7 +1,7 @@
 # symfodock-dev
 A Symfony skeleton app in a Docker environment
 
-*Warning : I didn't test it under Windows, so it may not be functionnal under that operating system.*
+⚠️ This is a beta version ! Not tested under Windows, so it may not be functionnal under that operating system.*
 
 ### How to build & run it
 
